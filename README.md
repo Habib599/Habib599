@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/samiunblack/samiunblack/blob/main/header-2.png" alt="header image"></img>
+<img align="center" src="https://github.com/samiunblack/samiunblack/blob/main/haeader-2.png" alt="header image"></img>
 <p align="center">I'm a backend-focused software engineer with proficiency in frontend development and a passion for competitive programming.</p>
 
 <br>
@@ -8,9 +8,7 @@
 <!--  /-->
 
 <a href="https://www.linkedin.com/in/habib599"><img src="https://img.shields.io/badge/LinkedIn-343A40?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge"/></a>
-<a href="https://discord.com/users/818515786803970148"><img src="https://img.shields.io/badge/Discord-343A40?style=for-the-badge&logo=discord&logoColor=white" alt="discord badge"/></a>
 <a href="https://twitter.com/samiun_black"><img src="https://img.shields.io/badge/Twitter-343A40?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter badge"/></a>
-<a href="https://dev.to/samiunblack"><img src="https://img.shields.io/badge/dev.to-343A40?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to badge"/></a>
 <a href="https://leetcode.com/habib5899"><img src="https://img.shields.io/badge/LeetCode-343A40?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode badge"/></a>
 <a href="https://codeforces.com/profile/habib_599"><img src="https://img.shields.io/badge/CodeForces-343A40?style=for-the-badge&logo=codeforces&logoColor=white" alt="CodeForces badge"/></a>
 <a href="https://hackerrank.com/mdhabiburr599"><img src="https://img.shields.io/badge/HackerRank-343A40?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank badge"/></a>
