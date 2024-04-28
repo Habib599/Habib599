@@ -28,25 +28,25 @@
 **Backend**
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,postgres,mysql,nodejs,express,mongodb" height="45"/>
+    <img src="https://skillicons.dev/icons?i=django" height="45"/>
 </a>
 
 **Frontend**
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap" height="45"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="45"/>
 </a>
 
 **Languages**
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,cpp,c" height="45"/>
+    <img src="https://skillicons.dev/icons?i=python,cpp,c" height="45"/>
 </a>
 
 **Tools**
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,neovim,firebase,linux,figma" height="45"/>
+    <img src="https://skillicons.dev/icons?i=git,figma" height="45"/>
 </a>
 
 <br>
@@ -54,7 +54,7 @@
 
 <details> 
     <summary><h3>📊 Coding Stats</h3> (click to open)</summary>
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=samiunblack&theme=github-dark" alt="github stats"/>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Habib599&theme=github-dark" alt="github stats"/>
     
 
 <!--START_SECTION:waka-->
