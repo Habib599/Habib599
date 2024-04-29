@@ -65,4 +65,6 @@ No activity tracked
 <!--END_SECTION:waka--> 
 </details>
 
-uses: Platane/snk/svg-only@v3
+              - name: generate-snake-game-from-github-contribution-grid
+                uses: Platane/snk@v3.2.0
+            
