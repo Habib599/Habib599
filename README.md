@@ -49,12 +49,7 @@
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-<details> 
+
     <summary><h3>📊 Coding Stats</h3> (click to open)</summary>
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Habib599&theme=github-dark" alt="github stats"/>
     
@@ -70,8 +65,4 @@ No activity tracked
 <!--END_SECTION:waka--> 
 </details>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+uses: Platane/snk/svg-only@v3
