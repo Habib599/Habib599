@@ -17,7 +17,6 @@
 - ☄️ I'm currently working on backend projects with Django.
 - 🧶 In my free time I read and write tech articles.
 - 🤝 Trying to connect more with fellow developers.
-<!-- ⚡ Fun fact: Typing speed 110 WPM -->
 - 📬 Reach me out at mdhabiburr599@gmail.com
 
 ### 🚀 Skills
