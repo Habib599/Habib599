@@ -8,7 +8,6 @@
 <!--  /-->
 
 <a href="https://www.linkedin.com/in/habib599"><img src="https://img.shields.io/badge/LinkedIn-343A40?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge"/></a>
-<a href="https://twitter.com/samiun_black"><img src="https://img.shields.io/badge/Twitter-343A40?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter badge"/></a>
 <a href="https://leetcode.com/habib5899"><img src="https://img.shields.io/badge/LeetCode-343A40?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode badge"/></a>
 <a href="https://codeforces.com/profile/habib_599"><img src="https://img.shields.io/badge/CodeForces-343A40?style=for-the-badge&logo=codeforces&logoColor=white" alt="CodeForces badge"/></a>
 <a href="https://hackerrank.com/mdhabiburr599"><img src="https://img.shields.io/badge/HackerRank-343A40?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank badge"/></a>
