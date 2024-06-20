@@ -47,7 +47,7 @@
 
 <br>
 
-
+<!--
     <summary><h3>📊 Coding Stats</h3> (click to open)</summary>
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Habib599&theme=github-dark" alt="github stats"/>
     
@@ -64,5 +64,5 @@ No activity tracked
 </details>
 
               - name: generate-snake-game-from-github-contribution-grid
-                uses: Platane/snk@v3.2.0
+                uses: Platane/snk@v3.2.0 --> 
             
