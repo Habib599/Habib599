@@ -52,7 +52,7 @@
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Habib599&theme=github-dark" alt="github stats"/>
     
 
-<!--START_SECTION:waka-->
+
 
 ```txt
 From: 20 April 2024 - To: 27 April 2024
@@ -60,7 +60,7 @@ From: 20 April 2024 - To: 27 April 2024
 No activity tracked
 ```
 
-<!--END_SECTION:waka--> 
+
 </details>
 
               - name: generate-snake-game-from-github-contribution-grid
