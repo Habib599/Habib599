@@ -18,7 +18,7 @@
 **Languages**
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python" height="45"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,tensorflow," height="45"/>
 </a>
 
 <br>
